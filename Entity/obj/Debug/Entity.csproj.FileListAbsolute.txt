@@ -1,0 +1,9 @@
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\Entity\bin\Debug\Entity.dll
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\Entity\bin\Debug\Entity.pdb
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\Entity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\Entity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\Entity\obj\Debug\Entity.csproj.CopyComplete
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\Entity\obj\Debug\Entity.dll
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\Entity\obj\Debug\Entity.pdb

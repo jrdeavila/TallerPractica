@@ -1,0 +1,54 @@
+[
+  {
+    "PacienteAtentido": {
+      "Nombre": "andres felipe de avila moreno",
+      "Afiliacion": "Subcidiado",
+      "Salario": 0.0,
+      "Cedula": 1065698835,
+      "Telefono": 311433289
+    },
+    "Tarifa": 0.05,
+    "ValorServicio": 8900000.0,
+    "NumeroLiquidacion": 848956,
+    "FechaLiquidacion": "2020-09-30T09:16:59.8366081-05:00"
+  },
+  {
+    "PacienteAtentido": {
+      "Nombre": "jose ricardo de avila moreno",
+      "Afiliacion": "Contributivo",
+      "Salario": 4520000.0,
+      "Cedula": 1003316620,
+      "Telefono": 3104535612
+    },
+    "Tarifa": 0.25,
+    "ValorServicio": 19870000.0,
+    "NumeroLiquidacion": 577170,
+    "FechaLiquidacion": "2020-09-30T09:15:48.4266757-05:00"
+  },
+  {
+    "PacienteAtentido": {
+      "Nombre": "madeleine de jesus moreno andrade",
+      "Afiliacion": "Subcidiado",
+      "Salario": 0.0,
+      "Cedula": 49775730,
+      "Telefono": 3005018688
+    },
+    "Tarifa": 0.05,
+    "ValorServicio": 47800.0,
+    "NumeroLiquidacion": 990580,
+    "FechaLiquidacion": "2020-09-30T09:37:44.8180523-05:00"
+  },
+  {
+    "PacienteAtentido": {
+      "Nombre": "jose ricardo de avila moreno",
+      "Afiliacion": "Contributivo",
+      "Salario": 3400000.0,
+      "Cedula": 1003316620,
+      "Telefono": 3104535612
+    },
+    "Tarifa": 0.2,
+    "ValorServicio": 130500.0,
+    "NumeroLiquidacion": 318780,
+    "FechaLiquidacion": "2020-09-30T12:10:52.9293682-05:00"
+  }
+]

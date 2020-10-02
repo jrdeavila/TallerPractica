@@ -1,0 +1,13 @@
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\BLL\bin\Debug\BLL.dll
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\BLL\bin\Debug\BLL.pdb
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\BLL\bin\Debug\DAL.dll
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\BLL\bin\Debug\Entity.dll
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\BLL\bin\Debug\DAL.pdb
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\BLL\bin\Debug\Entity.pdb
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\BLL\obj\Debug\BLL.dll
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,16 @@
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\Presentacion\bin\Debug\BLL.dll
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\Presentacion\bin\Debug\Entity.dll
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\Presentacion\bin\Debug\DAL.dll
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\Presentacion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\Presentacion\bin\Debug\BLL.pdb
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\Presentacion\bin\Debug\Entity.pdb
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\Presentacion\bin\Debug\DAL.pdb
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\Presentacion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\moren.LAPTOP-SHGMIPNO\source\repos\Parcial\Presentacion\obj\Debug\Presentacion.pdb
